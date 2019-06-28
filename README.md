@@ -4,8 +4,10 @@
 
 # Setup
 
-1. Go to `chrome://extensions/`
+1. Clone this repo
+`git clone https://github.com/yiyu0x/medium-infinity-reader.git`
 
-2. Import this extensions
+2. Go to `chrome://extensions/`
 
+3. Import this extensions (select this folder)
 ![screen_shot](https://i.imgur.com/H95EHnk.png)
