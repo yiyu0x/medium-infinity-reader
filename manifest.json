@@ -12,9 +12,10 @@
     "default_icon": "icon_on.png"
   },
   "permissions": [
-    "<all_urls>",
+    "https://*.medium.com/*",
     "webRequest",
-    "webRequestBlocking"
+    "webRequestBlocking",
+    "activeTab"
   ],
   "background": {
     "matches": [
