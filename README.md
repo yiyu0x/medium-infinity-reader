@@ -2,7 +2,13 @@
 
 無限閱讀 medium 文章不受限制。
 
-# Setup
+# steup automatic
+
+go to [web store](https://chrome.google.com/webstore/detail/medium-infinity-reader/fgmeboblogphchmhbkppjdjohckmmhan?hl=zh-TW) and install this extension.
+
+![webstore](https://i.imgur.com/43PBkN2.png)
+
+# setup by source code
 
 1. Clone this repo
 `git clone https://github.com/yiyu0x/medium-infinity-reader.git`
