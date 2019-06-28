@@ -11,3 +11,6 @@
 
 3. Import this extensions (select this folder)
 ![screen_shot](https://i.imgur.com/H95EHnk.png)
+
+![ss](https://i.imgur.com/TmgP44q.png)
+** Now, you wont see this again**
