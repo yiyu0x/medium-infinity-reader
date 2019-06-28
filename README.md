@@ -7,7 +7,7 @@
 1. Clone this repo
 `git clone https://github.com/yiyu0x/medium-infinity-reader.git`
 
-2. Go to `chrome://extensions/`
+2. Go to `chrome://extensions/` and turn on `Developer mode(開發人員模式)`
 
 3. Import this extensions (select this folder)
 ![screen_shot](https://i.imgur.com/H95EHnk.png)
